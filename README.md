@@ -1,24 +1,14 @@
 # technicaltest_geekgarden
 
-## Project setup
-```
-npm install
-```
+## Project views
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+![Technicaltest Geekgarden](https://user-images.githubusercontent.com/87967665/157633221-1cf4ee25-0876-46e3-adb4-0600d72bfd1f.JPG)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Project value
+  
+1. Case 1 : https://codepen.io/mdzakied/pen/xxPvRzx?editors=1010
+2. Case 2 : https://codepen.io/mdzakied/pen/KKyONYr?editors=1010
+3. Case 3 : https://codepen.io/mdzakied/pen/wvPVoLj?editors=1010
+4. Case 4 : 
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# ![Tecnicaltst Geekgarden case 4](https://user-images.githubusercontent.com/87967665/157634068-a9a142b4-942c-48ed-8536-e7ffacb7e3b8.JPG)
